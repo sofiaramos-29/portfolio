@@ -1,0 +1,6 @@
+# Ignore large media files that shouldn't go to GitHub
+UPDATED PORTFOLIO SHOWCASE/
+*.mp4
+*.mov
+*.mkv
+*.avi
